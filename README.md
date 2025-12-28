@@ -1,2 +1,2 @@
-# F-sica
-tudo de fisicas
+# Física
+repositório destinado as disciplinas de Física
