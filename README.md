@@ -1,2 +1,2 @@
 # Física
-repositório destinado as disciplinas de Física
+Repositório destinado as disciplinas de Física
